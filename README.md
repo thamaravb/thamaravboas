@@ -27,8 +27,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Thamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamaravboas&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamaravboas&layout=compact&theme=dracula)
+![Thamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamaravb&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamaravb&layout=compact&theme=dracula)
 
 ---
 
